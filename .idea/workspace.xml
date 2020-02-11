@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d1d665a-81fd-4ce4-b45f-84b88c9eacab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XfBh2K1FBYIW5vycdpXq2SqtvE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d1d665a-81fd-4ce4-b45f-84b88c9eacab" name="Default Changelist" comment="" />
+      <created>1581427384048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581427384048</updated>
+      <workItem from="1581427385601" duration="11753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="188" width="610" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581431586083">
+      <screen x="402" y="0" width="622" height="768" />
+    </state>
+    <state x="202" y="188" width="610" height="390" key="#com.intellij.fileTypes.FileTypeChooser/345.768.1366.768/402.0.622.768@402.0.622.768" timestamp="1581431586083" />
+    <state x="176" y="168" key="run.anything.popup" timestamp="1581435722753">
+      <screen x="402" y="0" width="622" height="768" />
+    </state>
+    <state x="176" y="168" key="run.anything.popup/345.768.1366.768/402.0.622.768@402.0.622.768" timestamp="1581435722753" />
+    <state x="175" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581428398526">
+      <screen x="402" y="0" width="622" height="768" />
+    </state>
+    <state x="175" y="89" width="672" height="678" key="search.everywhere.popup/345.768.1366.768/402.0.622.768@402.0.622.768" timestamp="1581428398526" />
+  </component>
+</project>
